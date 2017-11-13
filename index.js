@@ -32,5 +32,8 @@ function removeFromCart()
     }
 function placeOrder(number)
   {
-    
+    if(number == "" || number == " ")
+      {
+        print "Sorry, we don't have a credit card on file for you.";
+      }
   }
