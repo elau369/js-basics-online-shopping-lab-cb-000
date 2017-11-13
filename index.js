@@ -18,7 +18,7 @@ function total() {
 
 function addToCart(itemName)
   {
-    cart.push({itemName: Math.floor(Math.random())});
+    cart.push({itemName: Math.random(Math.floor())});
   }
 
 function getCart()
@@ -28,12 +28,12 @@ function getCart()
 
 function placeOrder()
 {
-  
+
 }
 
 function removeFromCart()
 {
-  
+
 }
 
 function viewCart()
