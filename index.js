@@ -19,7 +19,7 @@ function total() {
 function addToCart(item)
   {
     cart.push({'${item}': Math.random()},);
-    console.log();
+    console.log('${item} has been agged to your cart.');
     return cart;
   }
 
