@@ -26,6 +26,9 @@ function addToCart(itemName)
 function viewCart()
   {
     for(var i = 0; i < cart.length; i++)
+    {
+      
+    }
   }
 
 
