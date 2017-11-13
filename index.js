@@ -25,3 +25,8 @@ function getCart()
 {
 
 }
+
+function placeOrder()
+{
+  
+}
