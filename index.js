@@ -20,3 +20,8 @@ function addToCart(itemName)
   {
     cart.push({itemName: Math.floor(Math.random())});
   }
+
+function getCart()
+{
+
+}
