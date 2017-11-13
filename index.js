@@ -38,5 +38,5 @@ function removeFromCart()
 
 function viewCart()
   {
-    
+
   }
