@@ -15,3 +15,8 @@ function total() {
 
   return t
 }
+
+function addToCart(itemName)
+  {
+    {itemName: Math.floor(Math.random())}
+  }
