@@ -20,3 +20,13 @@ function addToCart(name)
   {
     
   }
+
+function viewCart()
+  {
+    
+  }
+
+function removeFromCart()
+    {
+      
+    }
