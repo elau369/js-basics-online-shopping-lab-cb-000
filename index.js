@@ -30,3 +30,13 @@ function placeOrder()
 {
   
 }
+
+function removeFromCart()
+{
+  
+}
+
+function viewCart()
+  {
+    
+  }
