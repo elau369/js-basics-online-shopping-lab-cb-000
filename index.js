@@ -18,5 +18,5 @@ function total() {
 
 function addToCart(itemName)
   {
-    {itemName: Math.floor(Math.random())}
+    car.push({itemName: Math.floor(Math.random())});
   }
