@@ -16,14 +16,17 @@ function total() {
   return t
 }
 
-function addToCart(item)
+function addToCart(itemName)
   {
-    cart.push({'${item}': Math.random()},);
+    cart.push({'${itemName}': Math.random()},);
     console.log('${item} has been agged to your cart.');
     return cart;
   }
 
-
+function viewCart()
+  {
+    for(var i = 0; i < cart.length; i++)
+  }
 
 
 
