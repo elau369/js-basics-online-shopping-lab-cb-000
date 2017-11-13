@@ -22,3 +22,12 @@ function addToCart(itemName)
     console.log(`<${itemName}> has been added to your cart.`);
     return cart;
   }
+
+
+
+
+
+function getCart()
+  {
+    
+  }
