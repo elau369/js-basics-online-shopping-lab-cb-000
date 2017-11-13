@@ -1,4 +1,4 @@
-var cart = [];
+var cart;
 
 function setCart(newCart) {
   cart = newCart;
@@ -15,25 +15,3 @@ function total() {
 
   return t
 }
-
-function addToCart(name)
-  {
-
-  }
-
-function viewCart()
-  {
-
-  }
-
-function removeFromCart()
-    {
-
-    }
-function placeOrder(number)
-  {
-    if(number == "" || number == " ")
-      {
-        print "Sorry, we don't have a credit card on file for you.";
-      }
-  }
