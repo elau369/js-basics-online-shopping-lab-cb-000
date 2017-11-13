@@ -28,7 +28,7 @@ function viewCart()
 
 function removeFromCart()
     {
-      
+
     }
 function placeOrder(number)
   {
