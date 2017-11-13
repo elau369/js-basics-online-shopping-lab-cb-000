@@ -29,5 +29,5 @@ function addToCart(itemName)
 
 function getCart()
   {
-    
+
   }
