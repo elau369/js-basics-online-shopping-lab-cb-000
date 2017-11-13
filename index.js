@@ -16,7 +16,7 @@ function total() {
   return t
 }
 
-function addToCart(itemName)
+function addToCart(item)
   {
     cart.push({'${itemName}': Math.random()},);
     console.log();
