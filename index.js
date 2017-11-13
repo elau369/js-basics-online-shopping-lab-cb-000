@@ -16,7 +16,7 @@ function total() {
   return t
 }
 
-function addToCart(apple)
+function addToCart(item)
   {
     cart.push({'${item}': Math.random()},);
     console.log('${item} has been agged to your cart.');
