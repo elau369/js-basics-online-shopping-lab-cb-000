@@ -18,15 +18,19 @@ function total() {
 
 function addToCart(name)
   {
-    
+
   }
 
 function viewCart()
   {
-    
+
   }
 
 function removeFromCart()
     {
       
     }
+function placeOrder(number)
+  {
+    
+  }
